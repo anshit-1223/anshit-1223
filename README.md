@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anshit-1223/) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:ayushman1024@gmail.com)<br><br><br>
+[![Ayushman's github stats](https://github-readme-stats.vercel.app/api?username=ayushman1024&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![My Skills](https://skillicons.dev/icons?i=django,spring,flask,angular)]([https://skillicons.dev](https://drive.google.com/file/d/11VQSm10ZJjvg9BDZp4--jReQaOo2nV8J/view))<br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,git,aws)]([https://skillicons.dev](https://drive.google.com/file/d/11VQSm10ZJjvg9BDZp4--jReQaOo2nV8J/view))<br>
+[![My Skills](https://skillicons.dev/icons?i=java,python,typescript,html)]([https://skillicons.dev](https://drive.google.com/file/d/11VQSm10ZJjvg9BDZp4--jReQaOo2nV8J/view))<br>
+![](https://komarev.com/ghpvc/?username=anshit-1223&color=orange)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshit-verma/) 
