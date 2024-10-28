@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anshit-1223/) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:anshit1223@gmail.com)<br><br><br>
 
 # 💻 Tech Stack:
@@ -22,8 +23,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html)]([https://skillicons.dev](https://drive.google.com/file/d/11VQSm10ZJjvg9BDZp4--jReQaOo2nV8J/view))<br>
 ![](https://komarev.com/ghpvc/?username=anshit-1223&color=orange)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshit-verma/) 
 
 # 📊 GitHub Stats:
 [![Anshit's github stats](https://github-readme-stats.vercel.app/api?username=anshit-1223&show_icons=true&theme=radical&include_all_commits&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
@@ -31,6 +30,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshit-1223&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anshit-1223&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 
