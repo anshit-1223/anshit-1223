@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 [![Anshit's github stats](https://github-readme-stats.vercel.app/api?username=anshit-1223&show_icons=true&theme=radical&include_all_commits&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anshit-1223&theme=blueberry&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshit-1223&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=anshit-1223&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshit-1223&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anshit-1223&icon=5&color=0)](https://visitcount.itsvg.in)
