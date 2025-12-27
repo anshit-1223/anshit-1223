@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html)]([https://skillicons.dev](https://drive.google.com/file/d/11VQSm10ZJjvg9BDZp4--jReQaOo2nV8J/view))<br><br>
 ![](https://komarev.com/ghpvc/?username=anshit-1223&color=orange)
 
-
+<!--
 ## 📊 GitHub Stats:
 [![Anshit's github stats](https://github-readme-stats.vercel.app/api?username=anshit-1223&show_icons=true&theme=radical&include_all_commits&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anshit-1223&theme=radical&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshit-1223&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
